@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Debojit Chatterjee
 - 👀 I’m interested in Java/Python Automation
-- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me Linkedin --> https://www.linkedin.com/in/deb-chatterjee21/
 
